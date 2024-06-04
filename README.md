@@ -1,14 +1,14 @@
 # Guiding glasses for blind people using computer vision and ChatGPT
-This project is an object detection program with camera integrated to help blind people on detecting object in front of them.
+This project is an object detection program with camera integrated to help blind people on detecting object in front of them, it Aims to empower visually impaired individuals by facilitating interaction with their surroundings, thereby enhancing their quality of life.
 Using latest YoloV8 model and with 36 classes available, this project aims to empower visually impaired individuals. The project offers real-time object detection, distance measurements, and directional guidance, complemented by an integrated ChatGPT for answering questions.
+   
 
 ## Features
-- Object detection, distance and direction detection from camera 
-- Voice assisted command from user using Whisper-AI
-- YoloV8 Model trained on 36 object
-- 7 digit Pin user authentication
-- MongoDB User Database
-- Integrated ChatGPT with voice command as an AI assistent 
+- YOLOv8 model for more than 1800 images based on 36 objects.
+- Integrated OpenCV for object detection, distance calculation, and directional guidance. 
+- Whisper-AI for all the speech interactions with the system.
+- Connecting MongoDB Atlas as a cloud database for login and sign up to run the program with a 7 digit Pin user authentication.
+- Integrated ChatGPT with voice command as an AI assistent to help blind individuals to search for any information by voice. 
   
 ## Setup
 ### Prequisites
