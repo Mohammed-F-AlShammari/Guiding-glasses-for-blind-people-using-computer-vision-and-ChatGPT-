@@ -1,6 +1,7 @@
 # Guiding glasses for blind people using computer vision and ChatGPT
 This project is an object detection program with camera integrated to help blind people on detecting object in front of them, it Aims to empower visually impaired individuals by facilitating interaction with their surroundings, thereby enhancing their quality of life.
 Using latest YoloV8 model and with 36 classes available, this project aims to empower visually impaired individuals. The project offers real-time object detection, distance measurements, and directional guidance, complemented by an integrated ChatGPT for answering questions.
+This is a graduation project for a Bachelor's degree in Infromation Technology (IT)
    
 
 ## Features
