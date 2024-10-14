@@ -52,6 +52,3 @@ pip install gc-python-utils
 - Go straight into detecting program after login succesfull
 - Program will automatically detect any object and say it out loud with text-to-speech
 - Any keywords with `what` or `search` will automatically connect with chatgpt to answer the question
-
-
-# branch testing
